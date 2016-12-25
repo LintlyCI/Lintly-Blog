@@ -31,3 +31,5 @@ That's exactly what Lintly does. It runs programs against your code that analyze
 errors. If it finds any errors, it will alert you via Slack, email, or a pull request comment.
 
 ## Why would I want to use Lintly?
+
+
