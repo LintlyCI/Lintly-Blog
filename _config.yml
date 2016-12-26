@@ -23,6 +23,7 @@ twitter_username: LintlyCI
 github_username:  LintlyCI
 disqus:
   shortname: lintly-blog
+google_analytics: UA-51900491-3
 
 # Build settings
 markdown: kramdown

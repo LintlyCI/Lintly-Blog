@@ -50,9 +50,9 @@ examples and links to help you improve your code.
 
 This is just the beginning. There are loads of features that will make their way into Lintly. There
 will be support for other languages (like JavaScript, CSS, SCSS, and Ruby) and other linters (like
-[EsLint](eslint.org), [stylelint](stylelint.io), and [RuboCop](rubocop.readthedocs.io)). There will
-also be support for private repositories. Finally, I plan to add GitLab and BitBucket support at
-some point.
+[EsLint](http://eslint.org), [stylelint](http://stylelint.io), and [RuboCop](http://rubocop.readthedocs.io)).
+There will also be support for private repositories. Finally, I plan to add GitLab and BitBucket
+support at some point.
 
 If you would like to help steer the direction of Lintly then please create a feature request as a
 [GitHub issue here](https://github.com/LintlyCI/Lintly-Issues).
