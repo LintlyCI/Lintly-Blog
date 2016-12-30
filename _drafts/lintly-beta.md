@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Announcing the Lintly Beta"
-date:   2016-12-25 14:44:16 -0600
+title:  "Introducing Lintly"
+date:   2016-01-04 10:00:00 -0600
 categories: beta
 author: Grant McConnaughey
 comments: true
@@ -28,19 +28,19 @@ Lintly will still be free for public repositories and a paid service will be off
 
 ## What is "linting"?
 
-A really good [definition of linting](http://stackoverflow.com/a/8503586/2026351) is the following:
+A great [definition of linting](http://stackoverflow.com/a/8503586/2026351) is the following:
 
 > Linting is the process of running a program that will analyze code for potential errors.
 
 That's exactly what Lintly does. It analyzes your code for potential errors and style violations.
-If it finds any issues, it will alert you via Slack, email, or a pull request comment. Then you'll
-have the chance to fix those issues immediately.
+If it finds any issues, it will alert you via Slack, email, or a pull request comment. Collaborators
+will then have a chance to fix the issues before their pull request is merged.
 
 ## Why would I want to use Lintly?
 
-It's no secret that code is read more often than its written. For this reason, code should be as
-well-formatted as possible. Reading over horribly formatted code can make for a system that is
-difficult to maintain (because you can't tell what it's doing in the first place!).
+It's no secret that [code is read more often than its written](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds).
+For this reason, code should be as well-formatted as possible. Horribly formatted code can make for
+a system that is difficult to maintain because the reader can't tell what it's doing in the first place.
 
 Lintly makes it easier to keep your codebase clean. If you push code that violates our linters, then
 Lintly will politely inform you that a violation has been detected. Lintly will also provide helpful
@@ -51,7 +51,7 @@ examples and links to help you improve your code.
 This is just the beginning. There are loads of features that will make their way into Lintly. There
 will be support for other languages (like JavaScript, CSS, SCSS, and Ruby) and other linters (like
 [EsLint](http://eslint.org), [stylelint](http://stylelint.io), and [RuboCop](http://rubocop.readthedocs.io)).
-There will also be support for private repositories. Finally, I plan to add GitLab and BitBucket
+There will also be support for private repositories. I also plan to add GitLab and BitBucket
 support at some point.
 
 If you would like to help steer the direction of Lintly then please create a feature request as a
