@@ -23,8 +23,8 @@ like this:
 2. Push some code to GitHub
 3. Lintly will pull down your code, lint it, and keep track of any issues
 
-During the beta, Lintly will be totally free and work only with public repositories. After the beta,
-Lintly will still be free for public repositories and a paid service will be offerred for private repos.
+Lintly is currently in beta for public repos. For any open source project Lintly is, and always will
+be, free to use. A later release will allow Lintly to be used for private repos.
 
 ## What is "linting"?
 
