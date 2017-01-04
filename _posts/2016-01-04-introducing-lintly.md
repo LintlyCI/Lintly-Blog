@@ -8,8 +8,8 @@ comments: true
 ---
 
 Welcome to Lintly! The [Lintly beta](https://lintly.com) is officially open to public repositories
-on GitHub. Lintly is a project I have worked on for a few months now, and I'm pretty proud with how
-it has turned out.
+on GitHub. Lintly is a project I have worked on for a few months now, and I'm pretty proud of how
+it has turned out so far.
 
 If you have the time, I'd like to tell you a little about Lintly and why I think you'll find it useful.
 
@@ -50,9 +50,9 @@ examples and links to help you improve your code.
 
 This is just the beginning. There are loads of features that will make their way into Lintly. There
 will be support for other languages (like JavaScript, CSS, SCSS, and Ruby) and other linters (like
-[EsLint](http://eslint.org), [stylelint](http://stylelint.io), and [RuboCop](http://rubocop.readthedocs.io)).
-There will also be support for private repositories. I also plan to add GitLab and BitBucket
-support at some point.
+[ESLint](http://eslint.org), [stylelint](http://stylelint.io), and [RuboCop](http://rubocop.readthedocs.io)).
+There will also be support for private repositories eventually, and I'd love add to support GitLab
+and BitBucket at some point, as well.
 
 If you would like to help steer the direction of Lintly then please create a feature request as a
 [GitHub issue here](https://github.com/LintlyCI/Lintly-Issues).
@@ -60,10 +60,10 @@ If you would like to help steer the direction of Lintly then please create a fea
 ## Try out Lintly
 
 If you would like to try out Lintly, head on over to [lintly.com](https://lintly.com) and click the
-big blue Register with GitHub button.
+big blue **Register with GitHub** button (or just [click here](https://lintly.com/login/github/)).
 
 I'd love to receive tons of feedback during the beta. If you have any suggestions or notice any bugs
-then simply click the Provide Feedback button over on the left, or simply head over to the [Lintly
+then simply click the Provide Feedback button over on the left, or head over to the [Lintly
 Issues repo in GitHub](https://github.com/LintlyCI/Lintly-Issues/issues) and create a new issue.
 
 Thanks for reading, and happy linting!
