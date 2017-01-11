@@ -47,6 +47,13 @@ img {
   vertical-align: middle;
 }
 
+@media screen and (min-width: $on-palm) {
+  .img-50 {
+    width: 50%;
+    margin-left: 25%;
+  }
+}
+
 
 
 /**
