@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lintly's First Update"
-date:   2017-01-11 10:00:00 -0600
+date:   2017-01-11 7:00:00 -0600
 categories: beta
 author: Grant McConnaughey
 comments: true
