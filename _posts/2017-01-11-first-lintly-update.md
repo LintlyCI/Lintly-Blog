@@ -15,19 +15,19 @@ Now let's go over the new features in Lintly.
 
 Lintly now has some handy project badges that you can display in your repo's README or documentation. To get your badge, go to your project and click on the badge in the top right corner.
 
-![Lintly project badges](/assets/img/first-lintly-update/project_badges.png)
+![Lintly project badges]({{ site.url }}/assets/img/first-lintly-update/project_badges.png)
 
 ## Improvements to running builds
 
 Now you can see your currently running builds on the dashboard and project pages.
 
-![See running builds](/assets/img/first-lintly-update/running_builds.png)
+![See running builds]({{ site.url }}/assets/img/first-lintly-update/running_builds.png)
 
 ## Navigate to project after import
 
 A link to your project will now display when you import the project into Lintly.
 
-<img src="/assets/img/first-lintly-update/import_links.png" alt="Navigate to project" class="img-50">
+<img src="{{ site.url }}/assets/img/first-lintly-update/import_links.png" alt="Navigate to project" class="img-50">
 
 ## Bug fixes
 
