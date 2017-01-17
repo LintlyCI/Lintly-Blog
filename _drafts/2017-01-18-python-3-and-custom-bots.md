@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Python 3 and Custom Bots"
-date:   2017-01-18 10:00:00 -0600
+date:   2017-01-18 07:00:00 -0600
 categories: beta updates
 author: Grant McConnaughey
 comments: true
 ---
 
-Today's update contains several cool new features, mostly notably (drumroll please)... **Python 3 support!**
+Lintly received another update was released yesterday evening. The update contains several cool new
+features, mostly notably (drumroll please)... **Python 3 support!**
 
 Here's an overview of what is new:
 

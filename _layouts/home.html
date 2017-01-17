@@ -18,7 +18,7 @@ layout: default
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           </h2>
 
-          <p>{{ post.content | truncatewords: 50 }}</p>
+          <p>{{ post.content | truncatewords: 45 }}</p>
         </li>
       {% endif %}
     {% endfor %}
