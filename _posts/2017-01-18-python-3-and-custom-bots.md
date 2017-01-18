@@ -7,8 +7,8 @@ author: Grant McConnaughey
 comments: true
 ---
 
-Lintly received another update was released yesterday evening. The update contains several cool new
-features, mostly notably (drumroll please)... **Python 3 support!**
+[Lintly](https://lintly.com) received another update was released yesterday evening. The update
+contains several cool new features, mostly notably (drumroll please)... **Python 3 support!**
 
 Here's an overview of what is new:
 
