@@ -31,7 +31,7 @@ project. The file should have this structure:
 ```yaml
 languages:
   python:
-    version: 2
+    version: 3
 ```
 
 The valid values for `version` are 2 or 3, with 2 being the default if you don't have this file. The
@@ -46,8 +46,8 @@ Before today, Lintly would always interact with the GitHub API using the account
 repository. The downside of this approach was that your precious API tokens would get used quite a
 bit and could start to get rate-limited (especially if you use the GitHub API with several other services).
 
-Now, however, you can use your own bot accounts to retrieve PR diffs, comment on PRs, create PR
-reviews, and create [commit statuses](https://developer.github.com/v3/repos/statuses/).
+Now, however, you can use your own [GitHub bot account](http://stackoverflow.com/questions/29177623/what-is-a-bot-account-on-github)
+to retrieve PR diffs, comment on PRs, create PR reviews, and create [commit statuses](https://developer.github.com/v3/repos/statuses/).
 
 To add a custom bot to Lintly, first login into Lintly with the bot account. You need to do this so
 that Lintly will have access to the bot's API token. Next, add the following YAML to your `lintly.yml`
