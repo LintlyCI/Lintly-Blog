@@ -1,10 +1,7 @@
 ---
-layout: post
 title:  "JavaScript and Lintly!"
 date:   2017-01-23 07:00:00 -0600
 categories: beta updates
-author: Grant McConnaughey
-comments: true
 ---
 
 [Lintly](https://lintly.com) just received a sweet new feature... **JavaScript support!** JavaScript

@@ -1,10 +1,7 @@
 ---
-layout: post
 title:  "Python 3 and Custom Bots"
 date:   2017-01-18 07:00:00 -0600
 categories: beta updates
-author: Grant McConnaughey
-comments: true
 ---
 
 [Lintly](https://lintly.com) received another update was released yesterday evening. The update

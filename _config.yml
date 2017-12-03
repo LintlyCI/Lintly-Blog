@@ -34,3 +34,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
 permalink: /:year/:month/:day/:title/
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      comments: true
+      author: Grant McConnaughey
+      author_twitter: https://twitter.com/gmcconnaughey

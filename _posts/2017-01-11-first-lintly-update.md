@@ -1,10 +1,7 @@
 ---
-layout: post
 title:  "Lintly's First Update"
 date:   2017-01-11 7:00:00 -0600
 categories: beta updates
-author: Grant McConnaughey
-comments: true
 ---
 
 Today Lintly is getting its first update! Thank you so much to everyone who has signed up for the beta so far. Please continue to provide feedback by tweeting to [@LintlyCI](https://twitter.com/LintlyCI) or creating an [issue in GitHub](https://github.com/LintlyCI/Lintly-Issues/issues). And if you haven't signed up yet then head on over to [lintly.com](https://lintly.com).

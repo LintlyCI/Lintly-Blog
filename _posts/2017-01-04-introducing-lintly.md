@@ -1,10 +1,7 @@
 ---
-layout: post
 title:  "Introducing Lintly"
 date:   2017-01-04 10:00:00 -0600
 categories: beta
-author: Grant McConnaughey
-comments: true
 ---
 
 Welcome to Lintly! The [Lintly beta](https://lintly.com) is officially open to public repositories

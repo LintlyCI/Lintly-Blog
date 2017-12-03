@@ -1,10 +1,7 @@
 ---
-layout: post
 title:  "CSS/SCSS support"
 date:   2017-02-14 07:00:00 -0600
 categories: beta updates
-author: Grant McConnaughey
-comments: true
 ---
 
 Happy Valentines Day! [Lintly](https://lintly.com) just received a new update that I think you'll love:
